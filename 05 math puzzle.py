@@ -7,3 +7,4 @@ while isGuessed != True:
       isGuessed = True
   else:
       print("нет, не верно")
+
